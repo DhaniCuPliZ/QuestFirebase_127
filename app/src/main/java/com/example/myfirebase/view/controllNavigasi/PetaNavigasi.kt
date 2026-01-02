@@ -11,6 +11,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.myfirebase.view.EntrySiswaScreen
+import com.example.myfirebase.view.route.DestinasiDetail
+import com.example.myfirebase.view.route.DestinasiEntry
+import com.example.myfirebase.view.route.DestinasiHome
 
 @Composable
 fun DataSiswaApp(
@@ -45,3 +48,5 @@ fun HostNavigasi(
         }
     }
 }
+
+
