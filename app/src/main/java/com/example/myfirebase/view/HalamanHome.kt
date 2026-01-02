@@ -1,6 +1,5 @@
 package com.example.myfirebase.view
 
-
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -101,10 +100,12 @@ fun HomeBody(
                 itemSiswa = statusUiSiswa.siswa,
                 onSiswaClick = { onSiswaClick(it.id.toInt()) }
             )
-            is StatusUiSiswa.Error -> ErrorScreen(
+            is StatusUiSiswa.ERROR -> ErrorScreen(
                 retryAction,
                 modifier = modifier.fillMaxSize()
             )
+
+            StatusUiSiswa.ERROR -> TODO()
         }
     }
 }
