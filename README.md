@@ -3,3 +3,5 @@
 <img width="1920" height="1080" alt="Cuplikan layar 2026-01-02 195757" src="https://github.com/user-attachments/assets/9c74dc55-f7a5-4d0a-b819-e7e5091ea1dc" />
 <img width="1920" height="1080" alt="Cuplikan layar 2026-01-02 195806" src="https://github.com/user-attachments/assets/48ee11ad-ec31-4367-ad64-dab93f8bd9d5" />
 <img width="1920" height="1080" alt="Cuplikan layar 2026-01-02 195822" src="https://github.com/user-attachments/assets/92c1fa42-23f0-4052-8146-7ddfe4e31327" />
+![Uploading gambar.png…]()
+
